@@ -1,0 +1,7 @@
+header{
+    background-color: rgb(72, 71, 71);
+    /* si tarabajamos con texto, es muy probable que justify content no funcione*/
+    text-align: center;
+    color: white;
+    padding: 1rem;
+}
